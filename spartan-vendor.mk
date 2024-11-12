@@ -1506,7 +1506,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@4.0-service.xml \
     manifest_android.hardware.drm@1.3-service.widevine.xml \
     manifest_oplusSensor.xml \
-    manifest_oplus_fingerprint.xml
+    manifest_oplus_fingerprint.xml\
+    vibrator-default
 
 PRODUCT_PACKAGES += \
     libimscamera_jni_libimscamera_jni_symlink64 \
